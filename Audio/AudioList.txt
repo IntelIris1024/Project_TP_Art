@@ -1,0 +1,20 @@
+Audio Sound effects list:
+- bullet shooting 
+- bullet colliding with metal
+- oven (factory oven, so open fire-ish) 
+- Old machines 
+- Old motor engines 
+- Light metal door opens
+- Heavy metal gate/door
+- leaking oil 
+- leaking water (probably the same as leaking oil)
+- air vents 
+- heater 
+- enemy robot
+- enemy robot attack
+-enemy robot damage
+- player robot damage 
+- player robot attack
+- score
+- lamps
+- broken lamps
