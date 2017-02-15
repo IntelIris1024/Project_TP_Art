@@ -45,7 +45,7 @@ public class PatrolState : AbstractEnemyState
 
         if (_agent.SeesTarget)
         {
-            if ((_agent.Target.transform.position - _agent.Parent.transform.position).magnitude > _agent.SightRange)
+            if ((_agent.Target.transform.position - _agent.Parent.transform.position).magnitude > _agent.SightRange/2)
             {
                 _agent.SetState(typeof(ChaseState));
             }
