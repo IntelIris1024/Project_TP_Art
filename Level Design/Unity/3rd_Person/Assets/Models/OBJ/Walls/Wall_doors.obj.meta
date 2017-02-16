@@ -1,22 +1,22 @@
 fileFormatVersion: 2
-guid: 8f0a644be58cc9446af09acf7e64be61
-timeCreated: 1487078130
+guid: 4b7d69fea7e42d5428398a67d02f6154
+timeCreated: 1487245270
 licenseType: Free
 ModelImporter:
   serializedVersion: 19
   fileIDToRecycleName:
-    100000: Wall_Door1_Walls30
-    100002: //RootNode
-    100004: Wall_Gate_Door
-    400000: Wall_Door1_Walls30
-    400002: //RootNode
-    400004: Wall_Gate_Door
-    2300000: Wall_Door1_Walls30
-    2300002: Wall_Gate_Door
-    3300000: Wall_Door1_Walls30
-    3300002: Wall_Gate_Door
-    4300000: Wall_Door1_Walls30
-    4300002: Wall_Gate_Door
+    100000: //RootNode
+    100002: Wall_Gate_Door_initialShadingGroup_Wall_Door
+    100004: Wall_Gate_Door_initialShadingGroup_Wall_Gate_Door1
+    400000: //RootNode
+    400002: Wall_Gate_Door_initialShadingGroup_Wall_Door
+    400004: Wall_Gate_Door_initialShadingGroup_Wall_Gate_Door1
+    2300000: Wall_Gate_Door_initialShadingGroup_Wall_Door
+    2300002: Wall_Gate_Door_initialShadingGroup_Wall_Gate_Door1
+    3300000: Wall_Gate_Door_initialShadingGroup_Wall_Door
+    3300002: Wall_Gate_Door_initialShadingGroup_Wall_Gate_Door1
+    4300000: Wall_Gate_Door_initialShadingGroup_Wall_Door
+    4300002: Wall_Gate_Door_initialShadingGroup_Wall_Gate_Door1
   materials:
     importMaterials: 1
     materialName: 0

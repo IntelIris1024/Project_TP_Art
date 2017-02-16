@@ -1,6 +1,6 @@
 fileFormatVersion: 2
-guid: 5b2ead5ba2a00d34f862a530cfab7920
-timeCreated: 1487065037
+guid: f310927b01e2496498749d0ba7e45bfa
+timeCreated: 1487242014
 licenseType: Free
 ModelImporter:
   serializedVersion: 19
@@ -18,7 +18,7 @@ ModelImporter:
     100020: Pipes_Pipes_Multy_Corner
     100022: Pipes_Pipes_Outer_Corner
     100024: Pipes_Pipes_pass_Door
-    100026: Pipes_Pipes_Window
+    100026: Pipes_Pipes_Pipes_Multy_Corner1_Pipes_Multy_Corner1
     100028: Pipes_Pipes_Window1
     400000: //RootNode
     400002: Pipes_go_up_Pipes
@@ -33,7 +33,7 @@ ModelImporter:
     400020: Pipes_Pipes_Multy_Corner
     400022: Pipes_Pipes_Outer_Corner
     400024: Pipes_Pipes_pass_Door
-    400026: Pipes_Pipes_Window
+    400026: Pipes_Pipes_Pipes_Multy_Corner1_Pipes_Multy_Corner1
     400028: Pipes_Pipes_Window1
     2300000: Pipes_go_up_Pipes
     2300002: Pipes_Pipes_2_piece_standard
@@ -47,7 +47,7 @@ ModelImporter:
     2300018: Pipes_Pipes_Multy_Corner
     2300020: Pipes_Pipes_Outer_Corner
     2300022: Pipes_Pipes_pass_Door
-    2300024: Pipes_Pipes_Window
+    2300024: Pipes_Pipes_Pipes_Multy_Corner1_Pipes_Multy_Corner1
     2300026: Pipes_Pipes_Window1
     3300000: Pipes_go_up_Pipes
     3300002: Pipes_Pipes_2_piece_standard
@@ -61,7 +61,7 @@ ModelImporter:
     3300018: Pipes_Pipes_Multy_Corner
     3300020: Pipes_Pipes_Outer_Corner
     3300022: Pipes_Pipes_pass_Door
-    3300024: Pipes_Pipes_Window
+    3300024: Pipes_Pipes_Pipes_Multy_Corner1_Pipes_Multy_Corner1
     3300026: Pipes_Pipes_Window1
     4300000: Pipes_go_up_Pipes
     4300002: Pipes_Pipes_2_piece_standard
@@ -75,7 +75,7 @@ ModelImporter:
     4300018: Pipes_Pipes_Multy_Corner
     4300020: Pipes_Pipes_Outer_Corner
     4300022: Pipes_Pipes_pass_Door
-    4300024: Pipes_Pipes_Window
+    4300024: Pipes_Pipes_Pipes_Multy_Corner1_Pipes_Multy_Corner1
     4300026: Pipes_Pipes_Window1
   materials:
     importMaterials: 1
