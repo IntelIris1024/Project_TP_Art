@@ -13,11 +13,8 @@ public class EnemyAgent : MonoBehaviour
     public GameObject TargetObject;
     public float SlerpSpeed = 0.1f;
     public NavigationPath PatrolPath = null;
-    //public GameObject MuzzleFlash;
-    //public GameObject BloodParticles;
-   // public GameObject ImpactParticles;
     public GameObject SharedAI;
-    public int OnDestroyHelpRange = 20;
+    public int OnDestroyHelpRange = 0;
     private SharedEnemyAI _sharedAI;
 
     private Vector3 _stepVector = new Vector3(0, 0.2f, 0);
@@ -25,7 +22,6 @@ public class EnemyAgent : MonoBehaviour
     private int _upLimit = 50;
     private int _upCounter = 0;
 
-    private Vector2 devicePos;
     public UnityEngine.AI.NavMeshAgent NavAgent { get; set; }
     public Rigidbody Parent { get; private set; }
     public Rigidbody Target { get; private set; }
@@ -36,15 +32,15 @@ public class EnemyAgent : MonoBehaviour
     
     private void Start()
     {
-
+        SightConeAngle = 360;
+        SightRange = 7;
+        OnDestroyHelpRange = 1;
         Parent = GetComponent<Rigidbody>();
         Target = TargetObject.GetComponent<Rigidbody>();
         NavAgent = GetComponent<UnityEngine.AI.NavMeshAgent>();
         _sharedAI = SharedAI.GetComponent<SharedEnemyAI>();
         _sharedAI.RegisterAgent(this, gameObject);
-
         List<GameObject> childObjects = GetChildrenComponents();
-
         _stateCache[typeof (PatrolState)] = new PatrolState(this, Parent.rotation, PatrolPath);
         _stateCache[typeof (ChaseState)] = new ChaseState(this);
         _stateCache[typeof (AttackState)] = new AttackState(this, childObjects.Find(child => child.name == "DroneTurretPoint"));
@@ -110,11 +106,10 @@ public class EnemyAgent : MonoBehaviour
     {
         var differenceVec = Target.transform.position - Parent.transform.position;
 
-        if (differenceVec.magnitude < SightRange) //Sees if Target is even in range
+        if (differenceVec.magnitude <= SightRange) //Sees if Target is even in range
         {
             Debug.DrawLine(Parent.transform.position, Target.transform.position, Color.cyan);
             var targetAngle = Vector3.Angle(differenceVec, Parent.transform.forward);
-
             if (targetAngle > SightConeAngle)
             {
                 return false; //Sees if Target is in sight cone
@@ -123,7 +118,6 @@ public class EnemyAgent : MonoBehaviour
 
             if (Physics.Raycast(Parent.position, differenceVec, out hit, differenceVec.magnitude))
             {
-                //Debug.Log(hit.collider.gameObject.tag);
                 if (hit.collider.gameObject.tag != "Player") return false; //Checks if anything is between the Target and the Parent
             }
             return true;
@@ -131,26 +125,7 @@ public class EnemyAgent : MonoBehaviour
         return false;
     }
 
-    void Levitate()
-    {
-        if (_movingUp)
-        {
-            Parent.gameObject.transform.position += _stepVector;
-            Debug.Log("Moving Up");
-        }
-        else
-        {
-            Debug.Log("Moving Down");
-            Parent.gameObject.transform.position -= _stepVector;
-        }
-
-        _upCounter += 1;
-        if (_upCounter >= _upLimit)
-        {
-            _movingUp = !_movingUp;
-            _upCounter = 0;
-        }
-    }
+    
 
      void OnDestroy()
     {

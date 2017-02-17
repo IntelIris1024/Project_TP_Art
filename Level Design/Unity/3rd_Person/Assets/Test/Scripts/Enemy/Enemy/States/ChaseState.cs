@@ -3,7 +3,7 @@ using UnityEngine;
 
 public class ChaseState : AbstractEnemyState
 {
-    private float _chaseSpeed = 0.3f;
+    private float _chaseSpeed = 0.9f;
     private float _slerpSpeed = 0.1f;
     private float _timeSinceStartChase;
     private Vector3 _oldPos = Vector3.zero;
@@ -26,11 +26,11 @@ public class ChaseState : AbstractEnemyState
             _timeSinceStartChase = 0;
             _agent.EnteredNewState = false;
         }
-        if (_agent.SeesTarget && (_agent.Target.transform.position - _agent.Parent.transform.position).magnitude < _agent.SightRange / 2)
+        if (_agent.SeesTarget && (_agent.Target.transform.position - _agent.Parent.transform.position).magnitude <= _agent.SightRange)
         {
             _agent.SetState(typeof(AttackState));
         }
-        else if (_agent.SeesTarget && (_agent.Target.transform.position - _agent.Parent.transform.position).magnitude > _agent.SightRange / 2)
+        else if (_agent.SeesTarget && (_agent.Target.transform.position - _agent.Parent.transform.position).magnitude >= _agent.SightRange / 2)
         {
             return; 
         }
@@ -38,15 +38,13 @@ public class ChaseState : AbstractEnemyState
         {
             _parentXZ.Set(_agent.Parent.transform.position.x, _agent.Parent.transform.position.z);
             _targetXZ.Set(_agent.LastSeenTargetPosition.x, _agent.LastSeenTargetPosition.z);
-           // Debug.Log("Distance to Target: " + Vector2.Distance(_targetXZ, _parentXZ));
-            if(Vector2.Distance(_targetXZ, _parentXZ) < 0.01f)
+            if(Vector2.Distance(_targetXZ, _parentXZ) < 0.1f)
             {
                 _agent.Parent.position = _agent.LastSeenTargetPosition;
                 _agent.SetState(typeof(LookoutState));
             }
             else if (_oldPos == _agent.Parent.transform.position && _timeSinceStartChase > 1.0f)
             {
-                Debug.Log("Entering Return State");
                 _agent.SetState(typeof(ReturnState));
             }
         }

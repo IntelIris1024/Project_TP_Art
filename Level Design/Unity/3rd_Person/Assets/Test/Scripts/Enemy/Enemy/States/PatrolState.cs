@@ -10,7 +10,7 @@ public class PatrolState : AbstractEnemyState
 
     private bool _angleAlignedFirstTime;
     private int _currentPathPoint;
-    private float _slerpSpeed = 0.1f;
+    private float _slerpSpeed = 20f;
 
 
     public PatrolState(EnemyAgent agent, Quaternion originalRotation, NavigationPath patrolPath = null) : base(agent)
@@ -61,7 +61,7 @@ public class PatrolState : AbstractEnemyState
                 //Corrects angle before continuing to patrol
                 _agent.Parent.transform.rotation = Quaternion.Slerp(_agent.Parent.transform.rotation, _originalRotation, _slerpSpeed);
                 _agent.Parent.transform.rotation = Quaternion.Euler(new Vector3(0f, _agent.Parent.transform.rotation.eulerAngles.y, 0f));
-                if (!(Quaternion.Angle(_agent.Parent.transform.rotation, _originalRotation) > 0.1f)) _angleAlignedFirstTime = true;
+                if (!(Quaternion.Angle(_agent.Parent.transform.rotation, _originalRotation) > 1)) _angleAlignedFirstTime = true;
             }
             else
             {
@@ -73,13 +73,13 @@ public class PatrolState : AbstractEnemyState
 
     private void RotateAroundAxis()
     {
-        _agent.Parent.transform.Rotate(0, 1.5f, 0);
+        _agent.Parent.transform.Rotate(0, 1, 0);
     }
 
     private void FollowPath()
     {
         _currentPos.Set(_agent.Parent.transform.position.x , _agent.Parent.transform.position.z); 
-        if (Vector2.Distance(_currentPos, _currentTarget) < 1.5f)
+        if (Vector2.Distance(_currentPos, _currentTarget) < 1.5)
         {
             //Debug.Log("REACHED THE POINT");
             _currentTarget = NextPoint();
