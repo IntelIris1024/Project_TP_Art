@@ -24,7 +24,7 @@ public class PlayerMovement : MonoBehaviour
     void Update()
     {
         health.text = "Health: " + CurrentHealth + "/" + MaxHealth;
-       Move();
+        Move();
         Turn();
 
         if (Input.GetMouseButtonDown(0))
