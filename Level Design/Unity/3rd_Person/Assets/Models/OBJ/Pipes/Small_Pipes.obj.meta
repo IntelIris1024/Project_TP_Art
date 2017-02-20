@@ -1,0 +1,152 @@
+fileFormatVersion: 2
+guid: 33f951e8b26518746bca1553ccc0bcba
+timeCreated: 1487595555
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: Pipe_90_long_Small_Pipes
+    100002: //RootNode
+    100004: Small_Pipes_Additon_pipes_Pipe_Cylinder
+    100006: Small_Pipes_Additon_pipes_Pipe_filter
+    100008: Small_Pipes_Pipe_45_small
+    100010: Small_Pipes_Pipe_60_small
+    100012: Small_Pipes_Pipe_90_long_broken
+    100014: Small_Pipes_Pipe_90_small
+    100016: Small_Pipes_Pipe_cross
+    100018: Small_Pipes_Pipe_Long
+    100020: Small_Pipes_Pipe_pressure_meter_Additon_pipes
+    100022: Small_Pipes_Pipe_Small
+    100024: Small_Pipes_Pipe_Small_Broken
+    100026: Small_Pipes_Pipe_T_pressure
+    100028: Small_Pipes_Pipe_wheel
+    100030: Small_Pipes_Pipe_Y
+    400000: Pipe_90_long_Small_Pipes
+    400002: //RootNode
+    400004: Small_Pipes_Additon_pipes_Pipe_Cylinder
+    400006: Small_Pipes_Additon_pipes_Pipe_filter
+    400008: Small_Pipes_Pipe_45_small
+    400010: Small_Pipes_Pipe_60_small
+    400012: Small_Pipes_Pipe_90_long_broken
+    400014: Small_Pipes_Pipe_90_small
+    400016: Small_Pipes_Pipe_cross
+    400018: Small_Pipes_Pipe_Long
+    400020: Small_Pipes_Pipe_pressure_meter_Additon_pipes
+    400022: Small_Pipes_Pipe_Small
+    400024: Small_Pipes_Pipe_Small_Broken
+    400026: Small_Pipes_Pipe_T_pressure
+    400028: Small_Pipes_Pipe_wheel
+    400030: Small_Pipes_Pipe_Y
+    2300000: Pipe_90_long_Small_Pipes
+    2300002: Small_Pipes_Additon_pipes_Pipe_Cylinder
+    2300004: Small_Pipes_Additon_pipes_Pipe_filter
+    2300006: Small_Pipes_Pipe_45_small
+    2300008: Small_Pipes_Pipe_60_small
+    2300010: Small_Pipes_Pipe_90_long_broken
+    2300012: Small_Pipes_Pipe_90_small
+    2300014: Small_Pipes_Pipe_cross
+    2300016: Small_Pipes_Pipe_Long
+    2300018: Small_Pipes_Pipe_pressure_meter_Additon_pipes
+    2300020: Small_Pipes_Pipe_Small
+    2300022: Small_Pipes_Pipe_Small_Broken
+    2300024: Small_Pipes_Pipe_T_pressure
+    2300026: Small_Pipes_Pipe_wheel
+    2300028: Small_Pipes_Pipe_Y
+    3300000: Pipe_90_long_Small_Pipes
+    3300002: Small_Pipes_Additon_pipes_Pipe_Cylinder
+    3300004: Small_Pipes_Additon_pipes_Pipe_filter
+    3300006: Small_Pipes_Pipe_45_small
+    3300008: Small_Pipes_Pipe_60_small
+    3300010: Small_Pipes_Pipe_90_long_broken
+    3300012: Small_Pipes_Pipe_90_small
+    3300014: Small_Pipes_Pipe_cross
+    3300016: Small_Pipes_Pipe_Long
+    3300018: Small_Pipes_Pipe_pressure_meter_Additon_pipes
+    3300020: Small_Pipes_Pipe_Small
+    3300022: Small_Pipes_Pipe_Small_Broken
+    3300024: Small_Pipes_Pipe_T_pressure
+    3300026: Small_Pipes_Pipe_wheel
+    3300028: Small_Pipes_Pipe_Y
+    4300000: Pipe_90_long_Small_Pipes
+    4300002: Small_Pipes_Additon_pipes_Pipe_Cylinder
+    4300004: Small_Pipes_Additon_pipes_Pipe_filter
+    4300006: Small_Pipes_Pipe_45_small
+    4300008: Small_Pipes_Pipe_60_small
+    4300010: Small_Pipes_Pipe_90_long_broken
+    4300012: Small_Pipes_Pipe_90_small
+    4300014: Small_Pipes_Pipe_cross
+    4300016: Small_Pipes_Pipe_Long
+    4300018: Small_Pipes_Pipe_pressure_meter_Additon_pipes
+    4300020: Small_Pipes_Pipe_Small
+    4300022: Small_Pipes_Pipe_Small_Broken
+    4300024: Small_Pipes_Pipe_T_pressure
+    4300026: Small_Pipes_Pipe_wheel
+    4300028: Small_Pipes_Pipe_Y
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
