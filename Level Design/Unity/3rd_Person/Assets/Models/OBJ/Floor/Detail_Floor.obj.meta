@@ -1,42 +1,27 @@
 fileFormatVersion: 2
-guid: d175e710b0d482047822669afbc81661
-timeCreated: 1487253486
+guid: 85536c5f14dd35648adc2ed4f97ebfab
+timeCreated: 1487629463
 licenseType: Free
 ModelImporter:
   serializedVersion: 19
   fileIDToRecycleName:
-    100000: shard1_solidShatter1
-    100002: solidShatter1_shard2
-    100004: solidShatter1_shard3
-    100006: solidShatter1_shard4
-    100008: solidShatter1_shard5
-    100010: solidShatter1_shard6
-    100012: //RootNode
-    400000: shard1_solidShatter1
-    400002: solidShatter1_shard2
-    400004: solidShatter1_shard3
-    400006: solidShatter1_shard4
-    400008: solidShatter1_shard5
-    400010: solidShatter1_shard6
-    400012: //RootNode
-    2300000: shard1_solidShatter1
-    2300002: solidShatter1_shard2
-    2300004: solidShatter1_shard3
-    2300006: solidShatter1_shard4
-    2300008: solidShatter1_shard5
-    2300010: solidShatter1_shard6
-    3300000: shard1_solidShatter1
-    3300002: solidShatter1_shard2
-    3300004: solidShatter1_shard3
-    3300006: solidShatter1_shard4
-    3300008: solidShatter1_shard5
-    3300010: solidShatter1_shard6
-    4300000: shard1_solidShatter1
-    4300002: solidShatter1_shard2
-    4300004: solidShatter1_shard3
-    4300006: solidShatter1_shard4
-    4300008: solidShatter1_shard5
-    4300010: solidShatter1_shard6
+    100000: //RootNode
+    100002: group3_Detail_block
+    100004: group3_Gear
+    100006: tire_group3
+    400000: //RootNode
+    400002: group3_Detail_block
+    400004: group3_Gear
+    400006: tire_group3
+    2300000: group3_Detail_block
+    2300002: group3_Gear
+    2300004: tire_group3
+    3300000: group3_Detail_block
+    3300002: group3_Gear
+    3300004: tire_group3
+    4300000: group3_Detail_block
+    4300002: group3_Gear
+    4300004: tire_group3
   materials:
     importMaterials: 1
     materialName: 0
