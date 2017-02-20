@@ -1,17 +1,17 @@
 fileFormatVersion: 2
-guid: 5f1e8f95f9060444c8b6155597c74d9f
-timeCreated: 1487327480
+guid: 10497775a92ff4e44829c90a98fc4bd9
+timeCreated: 1487537218
 licenseType: Free
 ModelImporter:
   serializedVersion: 19
   fileIDToRecycleName:
-    100000: Gun3
+    100000: Player_Gun
     100002: //RootNode
-    400000: Gun3
+    400000: Player_Gun
     400002: //RootNode
-    2300000: Gun3
-    3300000: Gun3
-    4300000: Gun3
+    2300000: Player_Gun
+    3300000: Player_Gun
+    4300000: Player_Gun
   materials:
     importMaterials: 1
     materialName: 0
@@ -36,7 +36,7 @@ ModelImporter:
     isReadable: 1
   meshes:
     lODScreenPercentages: []
-    globalScale: 0.1
+    globalScale: 1
     meshCompression: 0
     addColliders: 0
     importBlendShapes: 1
