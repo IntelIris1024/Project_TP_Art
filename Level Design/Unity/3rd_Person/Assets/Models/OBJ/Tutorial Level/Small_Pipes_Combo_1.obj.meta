@@ -1,17 +1,17 @@
 fileFormatVersion: 2
-guid: 83f71b0b1b379104381124d6e07d62ac
-timeCreated: 1487753396
+guid: 792cc8407d1a9ba4f9df361b77aa2dab
+timeCreated: 1487780856
 licenseType: Free
 ModelImporter:
   serializedVersion: 19
   fileIDToRecycleName:
-    100000: Floor3
-    100002: //RootNode
-    400000: Floor3
-    400002: //RootNode
-    2300000: Floor3
-    3300000: Floor3
-    4300000: Floor3
+    100000: //RootNode
+    100002: Small_pipes_combo_1
+    400000: //RootNode
+    400002: Small_pipes_combo_1
+    2300000: Small_pipes_combo_1
+    3300000: Small_pipes_combo_1
+    4300000: Small_pipes_combo_1
   materials:
     importMaterials: 1
     materialName: 0
