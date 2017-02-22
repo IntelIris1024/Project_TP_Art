@@ -1,17 +1,17 @@
 fileFormatVersion: 2
-guid: d3a684e67b58c7f469806817769961e7
-timeCreated: 1487691103
+guid: 573a1706eabf93442aa6cb6bd467bc19
+timeCreated: 1487753396
 licenseType: Free
 ModelImporter:
   serializedVersion: 19
   fileIDToRecycleName:
-    100000: Transparent1
+    100000: Transparent2
     100002: //RootNode
-    400000: Transparent1
+    400000: Transparent2
     400002: //RootNode
-    2300000: Transparent1
-    3300000: Transparent1
-    4300000: Transparent1
+    2300000: Transparent2
+    3300000: Transparent2
+    4300000: Transparent2
   materials:
     importMaterials: 1
     materialName: 0

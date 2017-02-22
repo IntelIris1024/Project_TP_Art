@@ -1,22 +1,17 @@
 fileFormatVersion: 2
-guid: 199b85d56cc0b214888a87415f1b5817
-timeCreated: 1487691513
+guid: 83f71b0b1b379104381124d6e07d62ac
+timeCreated: 1487753396
 licenseType: Free
 ModelImporter:
   serializedVersion: 19
   fileIDToRecycleName:
-    100000: BIG_Pipes2
-    100002: Floor2
-    100004: //RootNode
-    400000: BIG_Pipes2
-    400002: Floor2
-    400004: //RootNode
-    2300000: BIG_Pipes2
-    2300002: Floor2
-    3300000: BIG_Pipes2
-    3300002: Floor2
-    4300000: BIG_Pipes2
-    4300002: Floor2
+    100000: Floor3
+    100002: //RootNode
+    400000: Floor3
+    400002: //RootNode
+    2300000: Floor3
+    3300000: Floor3
+    4300000: Floor3
   materials:
     importMaterials: 1
     materialName: 0
