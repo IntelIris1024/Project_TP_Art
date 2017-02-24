@@ -1,17 +1,22 @@
 fileFormatVersion: 2
-guid: 573a1706eabf93442aa6cb6bd467bc19
-timeCreated: 1487753396
+guid: 542167c3af322c74e91a1ae8de4a6f7a
+timeCreated: 1487935090
 licenseType: Free
 ModelImporter:
   serializedVersion: 19
   fileIDToRecycleName:
-    100000: Transparent2
-    100002: //RootNode
-    400000: Transparent2
-    400002: //RootNode
-    2300000: Transparent2
-    3300000: Transparent2
-    4300000: Transparent2
+    100000: Glass_Transparent
+    100002: Transparent_grid
+    100004: //RootNode
+    400000: Glass_Transparent
+    400002: Transparent_grid
+    400004: //RootNode
+    2300000: Glass_Transparent
+    2300002: Transparent_grid
+    3300000: Glass_Transparent
+    3300002: Transparent_grid
+    4300000: Glass_Transparent
+    4300002: Transparent_grid
   materials:
     importMaterials: 1
     materialName: 0

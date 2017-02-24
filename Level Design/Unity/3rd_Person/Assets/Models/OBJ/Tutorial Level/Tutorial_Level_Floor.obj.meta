@@ -1,17 +1,17 @@
 fileFormatVersion: 2
-guid: 11a5fbc6b76288546b87011ce8b0b208
-timeCreated: 1487856373
+guid: c7b7f34bd4e256a408027fdacd0f09aa
+timeCreated: 1487933983
 licenseType: Free
 ModelImporter:
   serializedVersion: 19
   fileIDToRecycleName:
-    100000: Floor1
+    100000: Floor2
     100002: //RootNode
-    400000: Floor1
+    400000: Floor2
     400002: //RootNode
-    2300000: Floor1
-    3300000: Floor1
-    4300000: Floor1
+    2300000: Floor2
+    3300000: Floor2
+    4300000: Floor2
   materials:
     importMaterials: 1
     materialName: 0
