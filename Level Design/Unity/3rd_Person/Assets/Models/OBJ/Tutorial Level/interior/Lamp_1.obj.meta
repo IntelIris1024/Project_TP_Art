@@ -1,0 +1,142 @@
+fileFormatVersion: 2
+guid: b31d2837d7d24f54fb0d4b6f2a8e2029
+timeCreated: 1488214169
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: Lamp_1:Lamp_1_Lamps_domestic_Interior
+    100004: Lamps_domestic_Interior_Lamp_10
+    100006: Lamps_domestic_Interior_Lamp_17
+    100008: Lamps_domestic_Interior_Lamp_18
+    100010: Lamps_domestic_Interior_Lamp_19
+    100012: Lamps_domestic_Interior_Lamp_20
+    100014: Lamps_domestic_Interior_Lamp_23
+    100016: Lamps_domestic_Interior_Lamp_4
+    100018: Lamps_domestic_Interior_Lamp_5
+    100020: Lamps_domestic_Interior_Lamp_6
+    100022: Lamps_domestic_Interior_Lamp_7
+    100024: Lamps_domestic_Interior_Lamp_8
+    100026: Lamps_domestic_Interior_Lamp_9
+    400000: //RootNode
+    400002: Lamp_1:Lamp_1_Lamps_domestic_Interior
+    400004: Lamps_domestic_Interior_Lamp_10
+    400006: Lamps_domestic_Interior_Lamp_17
+    400008: Lamps_domestic_Interior_Lamp_18
+    400010: Lamps_domestic_Interior_Lamp_19
+    400012: Lamps_domestic_Interior_Lamp_20
+    400014: Lamps_domestic_Interior_Lamp_23
+    400016: Lamps_domestic_Interior_Lamp_4
+    400018: Lamps_domestic_Interior_Lamp_5
+    400020: Lamps_domestic_Interior_Lamp_6
+    400022: Lamps_domestic_Interior_Lamp_7
+    400024: Lamps_domestic_Interior_Lamp_8
+    400026: Lamps_domestic_Interior_Lamp_9
+    2300000: Lamp_1:Lamp_1_Lamps_domestic_Interior
+    2300002: Lamps_domestic_Interior_Lamp_10
+    2300004: Lamps_domestic_Interior_Lamp_17
+    2300006: Lamps_domestic_Interior_Lamp_18
+    2300008: Lamps_domestic_Interior_Lamp_19
+    2300010: Lamps_domestic_Interior_Lamp_20
+    2300012: Lamps_domestic_Interior_Lamp_23
+    2300014: Lamps_domestic_Interior_Lamp_4
+    2300016: Lamps_domestic_Interior_Lamp_5
+    2300018: Lamps_domestic_Interior_Lamp_6
+    2300020: Lamps_domestic_Interior_Lamp_7
+    2300022: Lamps_domestic_Interior_Lamp_8
+    2300024: Lamps_domestic_Interior_Lamp_9
+    3300000: Lamp_1:Lamp_1_Lamps_domestic_Interior
+    3300002: Lamps_domestic_Interior_Lamp_10
+    3300004: Lamps_domestic_Interior_Lamp_17
+    3300006: Lamps_domestic_Interior_Lamp_18
+    3300008: Lamps_domestic_Interior_Lamp_19
+    3300010: Lamps_domestic_Interior_Lamp_20
+    3300012: Lamps_domestic_Interior_Lamp_23
+    3300014: Lamps_domestic_Interior_Lamp_4
+    3300016: Lamps_domestic_Interior_Lamp_5
+    3300018: Lamps_domestic_Interior_Lamp_6
+    3300020: Lamps_domestic_Interior_Lamp_7
+    3300022: Lamps_domestic_Interior_Lamp_8
+    3300024: Lamps_domestic_Interior_Lamp_9
+    4300000: Lamp_1:Lamp_1_Lamps_domestic_Interior
+    4300002: Lamps_domestic_Interior_Lamp_10
+    4300004: Lamps_domestic_Interior_Lamp_17
+    4300006: Lamps_domestic_Interior_Lamp_18
+    4300008: Lamps_domestic_Interior_Lamp_19
+    4300010: Lamps_domestic_Interior_Lamp_20
+    4300012: Lamps_domestic_Interior_Lamp_23
+    4300014: Lamps_domestic_Interior_Lamp_4
+    4300016: Lamps_domestic_Interior_Lamp_5
+    4300018: Lamps_domestic_Interior_Lamp_6
+    4300020: Lamps_domestic_Interior_Lamp_7
+    4300022: Lamps_domestic_Interior_Lamp_8
+    4300024: Lamps_domestic_Interior_Lamp_9
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
