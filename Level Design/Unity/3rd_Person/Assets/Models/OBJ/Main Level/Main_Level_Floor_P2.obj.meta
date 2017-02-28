@@ -1,17 +1,17 @@
 fileFormatVersion: 2
-guid: d6cb27d01c65ff04581bd86373ef021f
-timeCreated: 1488195428
+guid: 31e44327131fdb44c817e78d86ec3e79
+timeCreated: 1488273960
 licenseType: Free
 ModelImporter:
   serializedVersion: 19
   fileIDToRecycleName:
-    100000: //RootNode
-    100002: Walls_Doors2
-    400000: //RootNode
-    400002: Walls_Doors2
-    2300000: Walls_Doors2
-    3300000: Walls_Doors2
-    4300000: Walls_Doors2
+    100000: Floor_P2
+    100002: //RootNode
+    400000: Floor_P2
+    400002: //RootNode
+    2300000: Floor_P2
+    3300000: Floor_P2
+    4300000: Floor_P2
   materials:
     importMaterials: 1
     materialName: 0
