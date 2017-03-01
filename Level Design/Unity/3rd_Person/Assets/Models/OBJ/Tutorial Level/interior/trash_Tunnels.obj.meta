@@ -1,22 +1,17 @@
 fileFormatVersion: 2
-guid: dac93ae9239007f4581a0b1479edbe69
-timeCreated: 1488383554
+guid: d31e59a1252c4f446ac2012ff56a95e5
+timeCreated: 1488383252
 licenseType: Free
 ModelImporter:
   serializedVersion: 19
   fileIDToRecycleName:
-    100000: scroller_line_up
-    100002: //RootNode
-    100004: trash_tunnels
-    400000: scroller_line_up
-    400002: //RootNode
-    400004: trash_tunnels
-    2300000: scroller_line_up
-    2300002: trash_tunnels
-    3300000: scroller_line_up
-    3300002: trash_tunnels
-    4300000: scroller_line_up
-    4300002: trash_tunnels
+    100000: //RootNode
+    100002: trash_tunnels
+    400000: //RootNode
+    400002: trash_tunnels
+    2300000: trash_tunnels
+    3300000: trash_tunnels
+    4300000: trash_tunnels
   materials:
     importMaterials: 1
     materialName: 0
