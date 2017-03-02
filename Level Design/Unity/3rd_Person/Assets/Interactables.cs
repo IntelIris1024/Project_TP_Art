@@ -8,9 +8,9 @@ public class Interactables : MonoBehaviour
 {
 
     public Rect windowRect = new Rect(20, 20, 120, 50);
-    public string stringToEdit = "";
-
     public Image icon;
+
+    public string text;
     private bool asshole = false;
 
     private void OnTriggerEnter(Collider col)
@@ -39,7 +39,7 @@ public class Interactables : MonoBehaviour
         }
     void DoMyWindow(int windowID)
     {
-        stringToEdit = GUILayout.TextArea(stringToEdit, 400);
+        GUI.Button( windowRect , new GUIContent(text));
 
     }
     public static void Pause()

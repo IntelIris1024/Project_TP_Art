@@ -1,17 +1,22 @@
 fileFormatVersion: 2
-guid: c7b7f34bd4e256a408027fdacd0f09aa
-timeCreated: 1487933983
+guid: 33430fffdf9f5ff4987a07f92dd1b0ca
+timeCreated: 1488363056
 licenseType: Free
 ModelImporter:
   serializedVersion: 19
   fileIDToRecycleName:
     100000: Floor2
     100002: //RootNode
+    100004: t4x4_Low45
     400000: Floor2
     400002: //RootNode
+    400004: t4x4_Low45
     2300000: Floor2
+    2300002: t4x4_Low45
     3300000: Floor2
+    3300002: t4x4_Low45
     4300000: Floor2
+    4300002: t4x4_Low45
   materials:
     importMaterials: 1
     materialName: 0

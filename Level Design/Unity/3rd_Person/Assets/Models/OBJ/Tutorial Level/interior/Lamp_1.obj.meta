@@ -19,6 +19,7 @@ ModelImporter:
     100022: Lamps_domestic_Interior_Lamp_7
     100024: Lamps_domestic_Interior_Lamp_8
     100026: Lamps_domestic_Interior_Lamp_9
+    100028: Lamp_24
     400000: //RootNode
     400002: Lamp_1:Lamp_1_Lamps_domestic_Interior
     400004: Lamps_domestic_Interior_Lamp_10
@@ -33,6 +34,7 @@ ModelImporter:
     400022: Lamps_domestic_Interior_Lamp_7
     400024: Lamps_domestic_Interior_Lamp_8
     400026: Lamps_domestic_Interior_Lamp_9
+    400028: Lamp_24
     2300000: Lamp_1:Lamp_1_Lamps_domestic_Interior
     2300002: Lamps_domestic_Interior_Lamp_10
     2300004: Lamps_domestic_Interior_Lamp_17
@@ -46,6 +48,7 @@ ModelImporter:
     2300020: Lamps_domestic_Interior_Lamp_7
     2300022: Lamps_domestic_Interior_Lamp_8
     2300024: Lamps_domestic_Interior_Lamp_9
+    2300026: Lamp_24
     3300000: Lamp_1:Lamp_1_Lamps_domestic_Interior
     3300002: Lamps_domestic_Interior_Lamp_10
     3300004: Lamps_domestic_Interior_Lamp_17
@@ -59,6 +62,7 @@ ModelImporter:
     3300020: Lamps_domestic_Interior_Lamp_7
     3300022: Lamps_domestic_Interior_Lamp_8
     3300024: Lamps_domestic_Interior_Lamp_9
+    3300026: Lamp_24
     4300000: Lamp_1:Lamp_1_Lamps_domestic_Interior
     4300002: Lamps_domestic_Interior_Lamp_10
     4300004: Lamps_domestic_Interior_Lamp_17
@@ -72,6 +76,7 @@ ModelImporter:
     4300020: Lamps_domestic_Interior_Lamp_7
     4300022: Lamps_domestic_Interior_Lamp_8
     4300024: Lamps_domestic_Interior_Lamp_9
+    4300026: Lamp_24
   materials:
     importMaterials: 1
     materialName: 0
