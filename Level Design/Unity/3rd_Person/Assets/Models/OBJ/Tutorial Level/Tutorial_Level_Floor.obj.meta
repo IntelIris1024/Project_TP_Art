@@ -8,15 +8,20 @@ ModelImporter:
     100000: Floor2
     100002: //RootNode
     100004: t4x4_Low45
+    100006: Floor1
     400000: Floor2
     400002: //RootNode
     400004: t4x4_Low45
+    400006: Floor1
     2300000: Floor2
     2300002: t4x4_Low45
+    2300004: Floor1
     3300000: Floor2
     3300002: t4x4_Low45
+    3300004: Floor1
     4300000: Floor2
     4300002: t4x4_Low45
+    4300004: Floor1
   materials:
     importMaterials: 1
     materialName: 0
