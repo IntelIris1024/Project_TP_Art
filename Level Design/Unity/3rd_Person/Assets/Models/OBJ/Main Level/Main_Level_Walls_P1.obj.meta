@@ -7,11 +7,16 @@ ModelImporter:
   fileIDToRecycleName:
     100000: //RootNode
     100002: Walls_P3
+    100004: Walls_P1
     400000: //RootNode
     400002: Walls_P3
+    400004: Walls_P1
     2300000: Walls_P3
+    2300002: Walls_P1
     3300000: Walls_P3
+    3300002: Walls_P1
     4300000: Walls_P3
+    4300002: Walls_P1
   materials:
     importMaterials: 1
     materialName: 0

@@ -1,0 +1,167 @@
+fileFormatVersion: 2
+guid: 581994318cc95d4408effc5f6e2424c0
+timeCreated: 1488457933
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: Box_Industrial_Interior_Crate_Palette_2:Crate_Palette_2
+    100002: Box_Industrial_Interior_Crate_Palette_3:Crate_Palette_3
+    100004: Box_Industrial_Interior_Crate_Palette_4:Crate_Palette_4
+    100006: Box_Industrial_Interior_Crate_Palette_5:Crate_Palette_5
+    100008: Box_Industrial_Interior_Palette_1:Palette_1
+    100010: Box_Industrial_Interior_Palette_2:Palette_2
+    100012: Box_Industrial_Interior_Palette_3
+    100014: Box_Industrial_Interior_Palette_4
+    100016: Box_Industrial_Interior_Shipping_Crate_1:Shipping_Crate_1
+    100018: Box_Industrial_Interior_Shipping_Crate_2:Shipping_Crate_2
+    100020: Box_Industrial_Interior_Shipping_Crate_3:Shipping_Crate_3
+    100022: Box_Industrial_Interior_Shipping_Crate_4:Shipping_Crate_4
+    100024: Box_Industrial_Interior_Shipping_Crate_5:Shipping_Crate_5
+    100026: Box_Industrial_Interior_Shipping_Crate_6:Shipping_Crate_6
+    100028: Box_Industrial_Interior_Shipping_Crate_7
+    100030: Box_Industrial_Interior_Shipping_Crate_8
+    100032: Box_Industrial_Interior_Shipping_Crate_9
+    100034: //RootNode
+    100036: Crate_Palette_1:Crate_Palette_1_Box_Industrial_Interior
+    400000: Box_Industrial_Interior_Crate_Palette_2:Crate_Palette_2
+    400002: Box_Industrial_Interior_Crate_Palette_3:Crate_Palette_3
+    400004: Box_Industrial_Interior_Crate_Palette_4:Crate_Palette_4
+    400006: Box_Industrial_Interior_Crate_Palette_5:Crate_Palette_5
+    400008: Box_Industrial_Interior_Palette_1:Palette_1
+    400010: Box_Industrial_Interior_Palette_2:Palette_2
+    400012: Box_Industrial_Interior_Palette_3
+    400014: Box_Industrial_Interior_Palette_4
+    400016: Box_Industrial_Interior_Shipping_Crate_1:Shipping_Crate_1
+    400018: Box_Industrial_Interior_Shipping_Crate_2:Shipping_Crate_2
+    400020: Box_Industrial_Interior_Shipping_Crate_3:Shipping_Crate_3
+    400022: Box_Industrial_Interior_Shipping_Crate_4:Shipping_Crate_4
+    400024: Box_Industrial_Interior_Shipping_Crate_5:Shipping_Crate_5
+    400026: Box_Industrial_Interior_Shipping_Crate_6:Shipping_Crate_6
+    400028: Box_Industrial_Interior_Shipping_Crate_7
+    400030: Box_Industrial_Interior_Shipping_Crate_8
+    400032: Box_Industrial_Interior_Shipping_Crate_9
+    400034: //RootNode
+    400036: Crate_Palette_1:Crate_Palette_1_Box_Industrial_Interior
+    2300000: Box_Industrial_Interior_Crate_Palette_2:Crate_Palette_2
+    2300002: Box_Industrial_Interior_Crate_Palette_3:Crate_Palette_3
+    2300004: Box_Industrial_Interior_Crate_Palette_4:Crate_Palette_4
+    2300006: Box_Industrial_Interior_Crate_Palette_5:Crate_Palette_5
+    2300008: Box_Industrial_Interior_Palette_1:Palette_1
+    2300010: Box_Industrial_Interior_Palette_2:Palette_2
+    2300012: Box_Industrial_Interior_Palette_3
+    2300014: Box_Industrial_Interior_Palette_4
+    2300016: Box_Industrial_Interior_Shipping_Crate_1:Shipping_Crate_1
+    2300018: Box_Industrial_Interior_Shipping_Crate_2:Shipping_Crate_2
+    2300020: Box_Industrial_Interior_Shipping_Crate_3:Shipping_Crate_3
+    2300022: Box_Industrial_Interior_Shipping_Crate_4:Shipping_Crate_4
+    2300024: Box_Industrial_Interior_Shipping_Crate_5:Shipping_Crate_5
+    2300026: Box_Industrial_Interior_Shipping_Crate_6:Shipping_Crate_6
+    2300028: Box_Industrial_Interior_Shipping_Crate_7
+    2300030: Box_Industrial_Interior_Shipping_Crate_8
+    2300032: Box_Industrial_Interior_Shipping_Crate_9
+    2300034: Crate_Palette_1:Crate_Palette_1_Box_Industrial_Interior
+    3300000: Box_Industrial_Interior_Crate_Palette_2:Crate_Palette_2
+    3300002: Box_Industrial_Interior_Crate_Palette_3:Crate_Palette_3
+    3300004: Box_Industrial_Interior_Crate_Palette_4:Crate_Palette_4
+    3300006: Box_Industrial_Interior_Crate_Palette_5:Crate_Palette_5
+    3300008: Box_Industrial_Interior_Palette_1:Palette_1
+    3300010: Box_Industrial_Interior_Palette_2:Palette_2
+    3300012: Box_Industrial_Interior_Palette_3
+    3300014: Box_Industrial_Interior_Palette_4
+    3300016: Box_Industrial_Interior_Shipping_Crate_1:Shipping_Crate_1
+    3300018: Box_Industrial_Interior_Shipping_Crate_2:Shipping_Crate_2
+    3300020: Box_Industrial_Interior_Shipping_Crate_3:Shipping_Crate_3
+    3300022: Box_Industrial_Interior_Shipping_Crate_4:Shipping_Crate_4
+    3300024: Box_Industrial_Interior_Shipping_Crate_5:Shipping_Crate_5
+    3300026: Box_Industrial_Interior_Shipping_Crate_6:Shipping_Crate_6
+    3300028: Box_Industrial_Interior_Shipping_Crate_7
+    3300030: Box_Industrial_Interior_Shipping_Crate_8
+    3300032: Box_Industrial_Interior_Shipping_Crate_9
+    3300034: Crate_Palette_1:Crate_Palette_1_Box_Industrial_Interior
+    4300000: Box_Industrial_Interior_Crate_Palette_2:Crate_Palette_2
+    4300002: Box_Industrial_Interior_Crate_Palette_3:Crate_Palette_3
+    4300004: Box_Industrial_Interior_Crate_Palette_4:Crate_Palette_4
+    4300006: Box_Industrial_Interior_Crate_Palette_5:Crate_Palette_5
+    4300008: Box_Industrial_Interior_Palette_1:Palette_1
+    4300010: Box_Industrial_Interior_Palette_2:Palette_2
+    4300012: Box_Industrial_Interior_Palette_3
+    4300014: Box_Industrial_Interior_Palette_4
+    4300016: Box_Industrial_Interior_Shipping_Crate_1:Shipping_Crate_1
+    4300018: Box_Industrial_Interior_Shipping_Crate_2:Shipping_Crate_2
+    4300020: Box_Industrial_Interior_Shipping_Crate_3:Shipping_Crate_3
+    4300022: Box_Industrial_Interior_Shipping_Crate_4:Shipping_Crate_4
+    4300024: Box_Industrial_Interior_Shipping_Crate_5:Shipping_Crate_5
+    4300026: Box_Industrial_Interior_Shipping_Crate_6:Shipping_Crate_6
+    4300028: Box_Industrial_Interior_Shipping_Crate_7
+    4300030: Box_Industrial_Interior_Shipping_Crate_8
+    4300032: Box_Industrial_Interior_Shipping_Crate_9
+    4300034: Crate_Palette_1:Crate_Palette_1_Box_Industrial_Interior
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
