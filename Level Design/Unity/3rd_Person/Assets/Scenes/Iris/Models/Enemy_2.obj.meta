@@ -1,17 +1,17 @@
 fileFormatVersion: 2
-guid: 9a9cf55f77ed9e046a51e372cf79f405
-timeCreated: 1488243199
+guid: dfb5e03a850eb8e4682327c331b1f113
+timeCreated: 1488441214
 licenseType: Free
 ModelImporter:
   serializedVersion: 19
   fileIDToRecycleName:
-    100000: Enemy_2
-    100002: //RootNode
-    400000: Enemy_2
-    400002: //RootNode
-    2300000: Enemy_2
-    3300000: Enemy_2
-    4300000: Enemy_2
+    100000: //RootNode
+    100002: Enemy_2_Characters
+    400000: //RootNode
+    400002: Enemy_2_Characters
+    2300000: Enemy_2_Characters
+    3300000: Enemy_2_Characters
+    4300000: Enemy_2_Characters
   materials:
     importMaterials: 1
     materialName: 0
