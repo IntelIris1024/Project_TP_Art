@@ -130,8 +130,8 @@ public class EnemyAgent : MonoBehaviour
      void OnDestroy()
     {
         Debug.Log("Enemy Destroyed, Emergency Search Initiated!");
-        _sharedAI.SearchInRangeAgent(this, OnDestroyHelpRange);
-        _sharedAI.UnRegisterAgent(this);
+      //  _sharedAI.SearchInRangeAgent(this, OnDestroyHelpRange);
+        //_sharedAI.UnRegisterAgent(this);
     }
 
 }

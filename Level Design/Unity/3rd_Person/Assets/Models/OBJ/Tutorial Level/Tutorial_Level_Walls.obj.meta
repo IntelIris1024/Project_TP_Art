@@ -8,15 +8,20 @@ ModelImporter:
     100000: //RootNode
     100002: Walls3
     100004: Walls2
+    100006: Walls5
     400000: //RootNode
     400002: Walls3
     400004: Walls2
+    400006: Walls5
     2300000: Walls3
     2300002: Walls2
+    2300004: Walls5
     3300000: Walls3
     3300002: Walls2
+    3300004: Walls5
     4300000: Walls3
     4300002: Walls2
+    4300004: Walls5
   materials:
     importMaterials: 1
     materialName: 0

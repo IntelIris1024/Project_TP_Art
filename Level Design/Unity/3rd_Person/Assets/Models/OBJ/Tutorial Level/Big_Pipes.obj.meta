@@ -7,11 +7,16 @@ ModelImporter:
   fileIDToRecycleName:
     100000: //RootNode
     100002: Big_Pipes1
+    100004: Big_Pipes4
     400000: //RootNode
     400002: Big_Pipes1
+    400004: Big_Pipes4
     2300000: Big_Pipes1
+    2300002: Big_Pipes4
     3300000: Big_Pipes1
+    3300002: Big_Pipes4
     4300000: Big_Pipes1
+    4300002: Big_Pipes4
   materials:
     importMaterials: 1
     materialName: 0

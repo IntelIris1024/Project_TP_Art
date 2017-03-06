@@ -7,11 +7,16 @@ ModelImporter:
   fileIDToRecycleName:
     100000: //RootNode
     100002: Air_refresher11
+    100004: Air_refresher11_Air_Conditions
     400000: //RootNode
     400002: Air_refresher11
+    400004: Air_refresher11_Air_Conditions
     2300000: Air_refresher11
+    2300002: Air_refresher11_Air_Conditions
     3300000: Air_refresher11
+    3300002: Air_refresher11_Air_Conditions
     4300000: Air_refresher11
+    4300002: Air_refresher11_Air_Conditions
   materials:
     importMaterials: 1
     materialName: 0

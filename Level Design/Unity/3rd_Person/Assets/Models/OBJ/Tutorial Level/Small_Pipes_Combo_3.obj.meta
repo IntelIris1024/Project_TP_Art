@@ -7,11 +7,16 @@ ModelImporter:
   fileIDToRecycleName:
     100000: //RootNode
     100002: Small_pipes_combo_3
+    100004: Small_pipes_combo_3_Small_Pipes_combos
     400000: //RootNode
     400002: Small_pipes_combo_3
+    400004: Small_pipes_combo_3_Small_Pipes_combos
     2300000: Small_pipes_combo_3
+    2300002: Small_pipes_combo_3_Small_Pipes_combos
     3300000: Small_pipes_combo_3
+    3300002: Small_pipes_combo_3_Small_Pipes_combos
     4300000: Small_pipes_combo_3
+    4300002: Small_pipes_combo_3_Small_Pipes_combos
   materials:
     importMaterials: 1
     materialName: 0

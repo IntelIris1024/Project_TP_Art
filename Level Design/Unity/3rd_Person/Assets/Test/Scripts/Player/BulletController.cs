@@ -22,7 +22,7 @@ public class BulletController : MonoBehaviour {
     {
         RaycastHit _hitInfo;
         Ray _ray = new Ray(transform.position, Vector3.forward);
-        if (Physics.Raycast(_ray, out _hitInfo,10))
+        if (Physics.Raycast(_ray, out _hitInfo,20))
         {
             if (_hitInfo.collider.gameObject.tag == "Enemy")
             {

@@ -15,6 +15,7 @@ ModelImporter:
     100014: Barrels_Industrial_Interior_Barrel_4
     100016: Barrels_Industrial_Interior_Barrel_6
     100018: Barrels_Industrial_Interior_Barrel_8
+    100020: Barrel_1:Barrel_1
     400000: //RootNode
     400002: Barrel_2:Barrel_2_Barrels_Industrial_Interior
     400004: Barrels_Industrial_Interior_Barrel_11
@@ -25,6 +26,7 @@ ModelImporter:
     400014: Barrels_Industrial_Interior_Barrel_4
     400016: Barrels_Industrial_Interior_Barrel_6
     400018: Barrels_Industrial_Interior_Barrel_8
+    400020: Barrel_1:Barrel_1
     2300000: Barrel_2:Barrel_2_Barrels_Industrial_Interior
     2300002: Barrels_Industrial_Interior_Barrel_11
     2300004: Barrels_Industrial_Interior_Barrel_12
@@ -34,6 +36,7 @@ ModelImporter:
     2300012: Barrels_Industrial_Interior_Barrel_4
     2300014: Barrels_Industrial_Interior_Barrel_6
     2300016: Barrels_Industrial_Interior_Barrel_8
+    2300018: Barrel_1:Barrel_1
     3300000: Barrel_2:Barrel_2_Barrels_Industrial_Interior
     3300002: Barrels_Industrial_Interior_Barrel_11
     3300004: Barrels_Industrial_Interior_Barrel_12
@@ -43,6 +46,7 @@ ModelImporter:
     3300012: Barrels_Industrial_Interior_Barrel_4
     3300014: Barrels_Industrial_Interior_Barrel_6
     3300016: Barrels_Industrial_Interior_Barrel_8
+    3300018: Barrel_1:Barrel_1
     4300000: Barrel_2:Barrel_2_Barrels_Industrial_Interior
     4300002: Barrels_Industrial_Interior_Barrel_11
     4300004: Barrels_Industrial_Interior_Barrel_12
@@ -52,6 +56,7 @@ ModelImporter:
     4300012: Barrels_Industrial_Interior_Barrel_4
     4300014: Barrels_Industrial_Interior_Barrel_6
     4300016: Barrels_Industrial_Interior_Barrel_8
+    4300018: Barrel_1:Barrel_1
   materials:
     importMaterials: 1
     materialName: 0

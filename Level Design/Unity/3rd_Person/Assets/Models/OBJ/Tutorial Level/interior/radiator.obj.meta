@@ -10,23 +10,28 @@ ModelImporter:
     100004: furniture_domestic_Interior_Radiator3
     100006: //RootNode
     100008: Radiator:Radiator_furniture_domestic_Interior
+    100010: furniture_domestic_Interior_Radiator4
     400000: furniture_domestic_Interior_Radiator1
     400002: furniture_domestic_Interior_Radiator2
     400004: furniture_domestic_Interior_Radiator3
     400006: //RootNode
     400008: Radiator:Radiator_furniture_domestic_Interior
+    400010: furniture_domestic_Interior_Radiator4
     2300000: furniture_domestic_Interior_Radiator1
     2300002: furniture_domestic_Interior_Radiator2
     2300004: furniture_domestic_Interior_Radiator3
     2300006: Radiator:Radiator_furniture_domestic_Interior
+    2300008: furniture_domestic_Interior_Radiator4
     3300000: furniture_domestic_Interior_Radiator1
     3300002: furniture_domestic_Interior_Radiator2
     3300004: furniture_domestic_Interior_Radiator3
     3300006: Radiator:Radiator_furniture_domestic_Interior
+    3300008: furniture_domestic_Interior_Radiator4
     4300000: furniture_domestic_Interior_Radiator1
     4300002: furniture_domestic_Interior_Radiator2
     4300004: furniture_domestic_Interior_Radiator3
     4300006: Radiator:Radiator_furniture_domestic_Interior
+    4300008: furniture_domestic_Interior_Radiator4
   materials:
     importMaterials: 1
     materialName: 0
