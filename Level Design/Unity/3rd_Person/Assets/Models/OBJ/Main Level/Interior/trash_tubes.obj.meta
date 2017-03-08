@@ -7,11 +7,16 @@ ModelImporter:
   fileIDToRecycleName:
     100000: //RootNode
     100002: trash_Tunnels_P3
+    100004: trash_Tunnels_P4_P1
     400000: //RootNode
     400002: trash_Tunnels_P3
+    400004: trash_Tunnels_P4_P1
     2300000: trash_Tunnels_P3
+    2300002: trash_Tunnels_P4_P1
     3300000: trash_Tunnels_P3
+    3300002: trash_Tunnels_P4_P1
     4300000: trash_Tunnels_P3
+    4300002: trash_Tunnels_P4_P1
   materials:
     importMaterials: 1
     materialName: 0

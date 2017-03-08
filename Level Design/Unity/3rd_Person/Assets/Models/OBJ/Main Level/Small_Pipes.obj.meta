@@ -7,11 +7,16 @@ ModelImporter:
   fileIDToRecycleName:
     100000: //RootNode
     100002: Small_Pipes1
+    100004: Pipe_Small19_P1
     400000: //RootNode
     400002: Small_Pipes1
+    400004: Pipe_Small19_P1
     2300000: Small_Pipes1
+    2300002: Pipe_Small19_P1
     3300000: Small_Pipes1
+    3300002: Pipe_Small19_P1
     4300000: Small_Pipes1
+    4300002: Pipe_Small19_P1
   materials:
     importMaterials: 1
     materialName: 0

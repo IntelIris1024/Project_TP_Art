@@ -7,11 +7,16 @@ ModelImporter:
   fileIDToRecycleName:
     100000: Air_condition:Air_refresher1
     100002: //RootNode
+    100004: Air_conditions_Air_condition:Air_refresher1_P1
     400000: Air_condition:Air_refresher1
     400002: //RootNode
+    400004: Air_conditions_Air_condition:Air_refresher1_P1
     2300000: Air_condition:Air_refresher1
+    2300002: Air_conditions_Air_condition:Air_refresher1_P1
     3300000: Air_condition:Air_refresher1
+    3300002: Air_conditions_Air_condition:Air_refresher1_P1
     4300000: Air_condition:Air_refresher1
+    4300002: Air_conditions_Air_condition:Air_refresher1_P1
   materials:
     importMaterials: 1
     materialName: 0

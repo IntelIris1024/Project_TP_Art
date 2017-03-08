@@ -7,11 +7,16 @@ ModelImporter:
   fileIDToRecycleName:
     100000: //RootNode
     100002: Transparent1
+    100004: Transparent1_P1
     400000: //RootNode
     400002: Transparent1
+    400004: Transparent1_P1
     2300000: Transparent1
+    2300002: Transparent1_P1
     3300000: Transparent1
+    3300002: Transparent1_P1
     4300000: Transparent1
+    4300002: Transparent1_P1
   materials:
     importMaterials: 1
     materialName: 0

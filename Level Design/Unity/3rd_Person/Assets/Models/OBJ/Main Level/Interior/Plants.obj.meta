@@ -9,19 +9,24 @@ ModelImporter:
     100002: //RootNode
     100004: Plants_Domestic_Interior_Plant3
     100006: Plants_Domestic_Interior_Plant:Plant
+    100008: Plant5
     400000: Plant4_Plants_Domestic_Interior
     400002: //RootNode
     400004: Plants_Domestic_Interior_Plant3
     400006: Plants_Domestic_Interior_Plant:Plant
+    400008: Plant5
     2300000: Plant4_Plants_Domestic_Interior
     2300002: Plants_Domestic_Interior_Plant3
     2300004: Plants_Domestic_Interior_Plant:Plant
+    2300006: Plant5
     3300000: Plant4_Plants_Domestic_Interior
     3300002: Plants_Domestic_Interior_Plant3
     3300004: Plants_Domestic_Interior_Plant:Plant
+    3300006: Plant5
     4300000: Plant4_Plants_Domestic_Interior
     4300002: Plants_Domestic_Interior_Plant3
     4300004: Plants_Domestic_Interior_Plant:Plant
+    4300006: Plant5
   materials:
     importMaterials: 1
     materialName: 0
