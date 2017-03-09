@@ -18,7 +18,14 @@ public class CameraScript : MonoBehaviour
 
         Vector3 desiredPos = player.transform.position - new Vector3(0, -cameraDistance, 0);
         Vector3 currentPos = this.transform.position;
-
+        if(Input.GetMouseButton(1))
+        {
+            cameraDistance = 16;
+        }
+        else
+        {
+            cameraDistance = 12;
+        }
         Vector3 newPos = ((desiredPos - currentPos) * (1 - smoothness)) + currentPos;
         this.transform.position = newPos;
     }

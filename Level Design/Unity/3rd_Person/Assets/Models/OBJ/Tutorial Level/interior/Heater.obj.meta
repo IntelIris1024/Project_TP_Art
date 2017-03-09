@@ -8,15 +8,25 @@ ModelImporter:
     100000: //RootNode
     100002: Heater1_Industrial_Interior
     100004: Industrial_Interior_Heater:Heater
+    100006: Heater1
+    100008: Heater3
     400000: //RootNode
     400002: Heater1_Industrial_Interior
     400004: Industrial_Interior_Heater:Heater
+    400006: Heater1
+    400008: Heater3
     2300000: Heater1_Industrial_Interior
     2300002: Industrial_Interior_Heater:Heater
+    2300004: Heater1
+    2300006: Heater3
     3300000: Heater1_Industrial_Interior
     3300002: Industrial_Interior_Heater:Heater
+    3300004: Heater1
+    3300006: Heater3
     4300000: Heater1_Industrial_Interior
     4300002: Industrial_Interior_Heater:Heater
+    4300004: Heater1
+    4300006: Heater3
   materials:
     importMaterials: 1
     materialName: 0
