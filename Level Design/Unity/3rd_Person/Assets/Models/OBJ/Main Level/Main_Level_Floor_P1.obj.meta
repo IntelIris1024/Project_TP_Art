@@ -8,15 +8,25 @@ ModelImporter:
     100000: Floor2
     100002: //RootNode
     100004: Floor_P1_all2
+    100006: Floor
+    100008: Floor1
     400000: Floor2
     400002: //RootNode
     400004: Floor_P1_all2
+    400006: Floor
+    400008: Floor1
     2300000: Floor2
     2300002: Floor_P1_all2
+    2300004: Floor
+    2300006: Floor1
     3300000: Floor2
     3300002: Floor_P1_all2
+    3300004: Floor
+    3300006: Floor1
     4300000: Floor2
     4300002: Floor_P1_all2
+    4300004: Floor
+    4300006: Floor1
   materials:
     importMaterials: 1
     materialName: 0

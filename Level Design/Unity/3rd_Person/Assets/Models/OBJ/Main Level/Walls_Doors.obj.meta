@@ -1,0 +1,182 @@
+fileFormatVersion: 2
+guid: 86c28cec9464bbc4192f115e08652b70
+timeCreated: 1488896111
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: group8_Door:Left_Wall1
+    100002: group8_Door:Right_Wall
+    100004: group8_Left_Wall
+    100006: group8_Left_Wall2
+    100008: group8_Left_Wall3
+    100010: group8_Left_Wall4
+    100012: group8_Left_Wall5
+    100014: group8_Left_Wall6
+    100016: group8_Left_Wall7
+    100018: group8_Left_Wall8
+    100020: group8_Left_Wall9
+    100022: group8_Right_Wall
+    100024: group8_Right_Wall2
+    100026: group8_Right_Wall3
+    100028: group8_Right_Wall4
+    100030: group8_Right_Wall5
+    100032: group8_Right_Wall6
+    100034: group8_Right_Wall7
+    100036: group8_Right_Wall8
+    100038: group8_Right_Wall9
+    100040: Right_Wall1_group8
+    100042: //RootNode
+    400000: group8_Door:Left_Wall1
+    400002: group8_Door:Right_Wall
+    400004: group8_Left_Wall
+    400006: group8_Left_Wall2
+    400008: group8_Left_Wall3
+    400010: group8_Left_Wall4
+    400012: group8_Left_Wall5
+    400014: group8_Left_Wall6
+    400016: group8_Left_Wall7
+    400018: group8_Left_Wall8
+    400020: group8_Left_Wall9
+    400022: group8_Right_Wall
+    400024: group8_Right_Wall2
+    400026: group8_Right_Wall3
+    400028: group8_Right_Wall4
+    400030: group8_Right_Wall5
+    400032: group8_Right_Wall6
+    400034: group8_Right_Wall7
+    400036: group8_Right_Wall8
+    400038: group8_Right_Wall9
+    400040: Right_Wall1_group8
+    400042: //RootNode
+    2300000: group8_Door:Left_Wall1
+    2300002: group8_Door:Right_Wall
+    2300004: group8_Left_Wall
+    2300006: group8_Left_Wall2
+    2300008: group8_Left_Wall3
+    2300010: group8_Left_Wall4
+    2300012: group8_Left_Wall5
+    2300014: group8_Left_Wall6
+    2300016: group8_Left_Wall7
+    2300018: group8_Left_Wall8
+    2300020: group8_Left_Wall9
+    2300022: group8_Right_Wall
+    2300024: group8_Right_Wall2
+    2300026: group8_Right_Wall3
+    2300028: group8_Right_Wall4
+    2300030: group8_Right_Wall5
+    2300032: group8_Right_Wall6
+    2300034: group8_Right_Wall7
+    2300036: group8_Right_Wall8
+    2300038: group8_Right_Wall9
+    2300040: Right_Wall1_group8
+    3300000: group8_Door:Left_Wall1
+    3300002: group8_Door:Right_Wall
+    3300004: group8_Left_Wall
+    3300006: group8_Left_Wall2
+    3300008: group8_Left_Wall3
+    3300010: group8_Left_Wall4
+    3300012: group8_Left_Wall5
+    3300014: group8_Left_Wall6
+    3300016: group8_Left_Wall7
+    3300018: group8_Left_Wall8
+    3300020: group8_Left_Wall9
+    3300022: group8_Right_Wall
+    3300024: group8_Right_Wall2
+    3300026: group8_Right_Wall3
+    3300028: group8_Right_Wall4
+    3300030: group8_Right_Wall5
+    3300032: group8_Right_Wall6
+    3300034: group8_Right_Wall7
+    3300036: group8_Right_Wall8
+    3300038: group8_Right_Wall9
+    3300040: Right_Wall1_group8
+    4300000: group8_Door:Left_Wall1
+    4300002: group8_Door:Right_Wall
+    4300004: group8_Left_Wall
+    4300006: group8_Left_Wall2
+    4300008: group8_Left_Wall3
+    4300010: group8_Left_Wall4
+    4300012: group8_Left_Wall5
+    4300014: group8_Left_Wall6
+    4300016: group8_Left_Wall7
+    4300018: group8_Left_Wall8
+    4300020: group8_Left_Wall9
+    4300022: group8_Right_Wall
+    4300024: group8_Right_Wall2
+    4300026: group8_Right_Wall3
+    4300028: group8_Right_Wall4
+    4300030: group8_Right_Wall5
+    4300032: group8_Right_Wall6
+    4300034: group8_Right_Wall7
+    4300036: group8_Right_Wall8
+    4300038: group8_Right_Wall9
+    4300040: Right_Wall1_group8
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -8,15 +8,25 @@ ModelImporter:
     100000: //RootNode
     100002: Walls_P3
     100004: Walls_P1
+    100006: Walls_P2_P1
+    100008: Walls_P1_all2
     400000: //RootNode
     400002: Walls_P3
     400004: Walls_P1
+    400006: Walls_P2_P1
+    400008: Walls_P1_all2
     2300000: Walls_P3
     2300002: Walls_P1
+    2300004: Walls_P2_P1
+    2300006: Walls_P1_all2
     3300000: Walls_P3
     3300002: Walls_P1
+    3300004: Walls_P2_P1
+    3300006: Walls_P1_all2
     4300000: Walls_P3
     4300002: Walls_P1
+    4300004: Walls_P2_P1
+    4300006: Walls_P1_all2
   materials:
     importMaterials: 1
     materialName: 0
