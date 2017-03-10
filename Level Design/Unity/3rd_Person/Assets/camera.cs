@@ -14,14 +14,14 @@ public class camera : MonoBehaviour {
     // Update is called once per frame
     void Update () {
 
-        transform.Translate(Vector3.right * Time.deltaTime * 4);
+        transform.Translate(Vector3.right * Time.deltaTime * 3);
 	}
 
     private void OnTriggerEnter(Collider col)
     {
         if (col.tag == "Camera")
         {
-            Reset();
+           
         }
     }
 
