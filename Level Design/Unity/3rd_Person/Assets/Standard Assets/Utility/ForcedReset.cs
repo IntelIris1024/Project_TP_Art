@@ -4,7 +4,7 @@ using UnityEngine.SceneManagement;
 using UnityStandardAssets.CrossPlatformInput;
 
 [RequireComponent(typeof (GUITexture))]
-public class ForcedReset : MonoBehaviour
+public class Reset : MonoBehaviour
 {
     private void Update()
     {

@@ -10,23 +10,28 @@ ModelImporter:
     100004: Assembly_Line2_Assembly_Lines
     100006: Assembly_Lines_Assembly_Line1
     100008: Assembly_Lines_Assembly_Line:Assembly_Line
+    100010: Assembly_Line:Assembly_Line
     400000: Assembly_Line1
     400002: //RootNode
     400004: Assembly_Line2_Assembly_Lines
     400006: Assembly_Lines_Assembly_Line1
     400008: Assembly_Lines_Assembly_Line:Assembly_Line
+    400010: Assembly_Line:Assembly_Line
     2300000: Assembly_Line1
     2300002: Assembly_Line2_Assembly_Lines
     2300004: Assembly_Lines_Assembly_Line1
     2300006: Assembly_Lines_Assembly_Line:Assembly_Line
+    2300008: Assembly_Line:Assembly_Line
     3300000: Assembly_Line1
     3300002: Assembly_Line2_Assembly_Lines
     3300004: Assembly_Lines_Assembly_Line1
     3300006: Assembly_Lines_Assembly_Line:Assembly_Line
+    3300008: Assembly_Line:Assembly_Line
     4300000: Assembly_Line1
     4300002: Assembly_Line2_Assembly_Lines
     4300004: Assembly_Lines_Assembly_Line1
     4300006: Assembly_Lines_Assembly_Line:Assembly_Line
+    4300008: Assembly_Line:Assembly_Line
   materials:
     importMaterials: 1
     materialName: 0

@@ -8,15 +8,20 @@ ModelImporter:
     100000: Industrial_Interior_Oven1
     100002: //RootNode
     100004: Oven:Oven_Industrial_Interior
+    100006: Oven1
     400000: Industrial_Interior_Oven1
     400002: //RootNode
     400004: Oven:Oven_Industrial_Interior
+    400006: Oven1
     2300000: Industrial_Interior_Oven1
     2300002: Oven:Oven_Industrial_Interior
+    2300004: Oven1
     3300000: Industrial_Interior_Oven1
     3300002: Oven:Oven_Industrial_Interior
+    3300004: Oven1
     4300000: Industrial_Interior_Oven1
     4300002: Oven:Oven_Industrial_Interior
+    4300004: Oven1
   materials:
     importMaterials: 1
     materialName: 0
